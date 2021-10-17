@@ -1,0 +1,135 @@
+body{
+    margin: 0;
+    
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: tomato;
+}
+
+h2{
+    font-size: 35px;
+}
+p{
+    color: dimgray;
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+section{
+    padding: 80px 0px;
+}
+
+img{
+    width: 100%;
+}
+
+.top-banner{
+    background-image: url("/images/header-bg.png");
+    background-repeat: no-repeat;
+    height: 800px; 
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2% ;
+}
+
+.link-btn{
+    text-decoration: none;
+    font-size: 18px;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.biography{
+    background-image: url("/images/biography-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    height: 800px; 
+ 
+}
+
+.latest-work{
+    background-image: url("/images/latest-work-bg.png");
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+    
+ 
+}
+
+.clients-area{
+    background-image: url("/images/footer-bg.png");
+    background-repeat: no-repeat;
+    height: 600px;
+
+}
+
+.lates-work-title{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+
+
+.l-w-img{
+    width: 20%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 4%;
+}
+
+
+.client-box-title{
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+}
+
+.client-box {
+    width: 80%;
+    margin:  auto;
+    text-align: center;
+}
+
+
+
+.send-msg-box {
+    background-color: #ec4e89;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+    text-align: center;
+    border-radius: 7px;
+    color: white;
+}
+
+.clinets-desc{
+    width: 40%;
+    margin: auto;
+    font-weight: 200;
+    font-size: 17px;
+    margin-bottom: 50px;
+}
+
+.send-msg-box p {
+    color: white;
+}
+
+.send-msg-box h3 {
+    font-size: 25px;
+    font-weight: normal;
+} 
+footer {
+    text-align: center;
+    padding: 10px 0px;
+    color:dimgray;
+}
