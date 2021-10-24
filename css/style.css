@@ -29,7 +29,7 @@ img{
 .top-banner{
     background-image: url("/images/header-bg.png");
     background-repeat: no-repeat;
-    height: 800px; 
+    height: 630px;
 }
 .half-width{
     width: 40%;
@@ -52,8 +52,7 @@ img{
     background-image: url("/images/biography-bg.png");
     background-repeat: no-repeat;
     overflow: hidden;
-    height: 800px; 
- 
+    height: 560px;
 }
 
 .latest-work{
